@@ -2,6 +2,8 @@
 
 This is an exercise to familiarize myself with Spreedly's API.
 
+
+
 ### Ruby version 
 
 2.6.6
@@ -11,5 +13,5 @@ This is an exercise to familiarize myself with Spreedly's API.
 To install dependencies, run:
 
 ```
-bundle install 
+$ bundle install 
 ```

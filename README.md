@@ -1,24 +1,15 @@
-# README
+# Spreedly Airlines
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is an exercise to familiarize myself with Spreedly's API.
 
-Things you may want to cover:
+### Ruby version 
 
-* Ruby version
+2.6.6
 
-* System dependencies
+### System dependencies
 
-* Configuration
+To install dependencies, run:
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+```
+bundle install 
+```
